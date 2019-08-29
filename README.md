@@ -1,6 +1,6 @@
 # Background Generator
-A JavaScript based website to generate a CSS (linear-gradient) background code based on random colors or colors chosen by the user.
 
+A JavaScript based website to generate a CSS (linear-gradient) background code based on random colors or colors chosen by the user.
 
 <h1>Features</h1>
 <ul>
